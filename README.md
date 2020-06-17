@@ -1,5 +1,5 @@
 ## Asotus
-<a href="asotus.github.io/pdf file/asotus.pdf" target="_blank">PDF.</a>
+<a href="asotus.github.io/Pdf File/asotus.pdf" target="_blank">PDF.</a>
 
 You can use the [editor on GitHub](https://github.com/Asotus/asotus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
