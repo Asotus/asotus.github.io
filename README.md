@@ -1,6 +1,5 @@
 <center>
 <h1>Asotus</h1>
-
 <p>Asotus Debut Album Inspired by Efilism. Expected release date is December 6, 2020.</p>
 
 <p2>
