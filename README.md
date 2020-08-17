@@ -10,7 +10,6 @@
 
 <a href="https://www.youtube.com/channel/UC85aXFVWf7bxq0GCdil59Hw/featured" target="_blank">My Youtube</a>
 
-</center>
 
 </p2>
 <style>
