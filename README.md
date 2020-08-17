@@ -12,7 +12,6 @@
 <img src="https://raw.githubusercontent.com/Asotus/asotus.github.io/master/Images/Screenshot%20(28).png" />
 
 </p2>
-<a href="https://github.com/Asotus/asotus.github.io/blob/master/Audio/Website%20Loop.aif">Download aid</a>
 
 <style>
 body {
