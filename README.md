@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <center>
 <h1>Asotus</h1>
 
@@ -11,6 +9,7 @@
 <a href="https://www.instagram.com/_asotus/" target="_blank">My Instagram</a>
 
 <a href="https://www.youtube.com/channel/UC85aXFVWf7bxq0GCdil59Hw/featured" target="_blank">My Youtube</a>
+
 </center>
 
 </p2>
@@ -30,5 +29,3 @@ a {
 
 
 </style>
-
-</html>
