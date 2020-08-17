@@ -12,9 +12,10 @@
 <img src="https://raw.githubusercontent.com/Asotus/asotus.github.io/master/Images/Screenshot%20(28).png" />
 
 </p2>
-<audio controls>
-  <source src="https://github.com/Asotus/asotus.github.io/blob/master/Audio/Website%20Loop.aif" />
-</audio>
+
+<embed src="https://github.com/Asotus/asotus.github.io/blob/master/Audio/Website%20Loop.aif" 
+       align="baseline" border="0" width="145"
+       height="60" autostart="true" loop="true">
 <style>
 body {
     background-color: #000000;
