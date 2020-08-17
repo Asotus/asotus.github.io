@@ -9,7 +9,7 @@
 
 <a href="https://www.youtube.com/channel/UC85aXFVWf7bxq0GCdil59Hw/featured" target="_blank">Youtube</a>
 
-<img src="Screenshot (28).png">
+<img src="https://raw.githubusercontent.com/Asotus/asotus.github.io/master/Images/Screenshot%20(28).png" />
 
 </p2>
 <style>
