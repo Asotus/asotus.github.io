@@ -8,6 +8,14 @@ Asotus Debut Album Inspired by Efilism. Expected release date is December 6, 202
 
 <a href="https://www.youtube.com/channel/UC85aXFVWf7bxq0GCdil59Hw/featured" target="_blank">My Youtube</a>
 
+<style>
+  body {
+   width: 60%
+   background: #f7f7f7;
+   margin: 40px auto;
+  }
+ h1 {
+     font-family: 'helvetica'
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="FN77WB3TN5KZJ" />
