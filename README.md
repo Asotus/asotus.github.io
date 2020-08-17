@@ -12,9 +12,7 @@
 <img src="https://raw.githubusercontent.com/Asotus/asotus.github.io/master/Images/Screenshot%20(28).png" />
 
 </p2>
-
-<audio id="https://github.com/Asotus/asotus.github.io/blob/master/Audio/Website%20Loop.aif" controls loop>
-  <source src="website loop.aif" type="audio/aif">
+iframe width="0" height="0" src="https://github.com/Asotus/asotus.github.io/blob/master/Audio/Website%20Loop.aif" frameborder="0"
 
 <style>
 body {
