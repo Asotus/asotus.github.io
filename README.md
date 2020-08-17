@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/Asotus/asotus.github.io/master/Images/Screenshot%20(28).png" />
 
 </p2>
-<audio src="Website Loop.Aif" controls></audio>
+<audio src="Website Loop.Aif" controls autoplay loop></audio>
 
 <style>
 body {
