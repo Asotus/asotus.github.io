@@ -1,6 +1,6 @@
 <center>
 <h1>Asotus</h1>
-<p>Asotus Debut Album Inspired by Efilism. Expected release date is December 6, 2020.</p>
+<p>Asotus Debut Album Inspired by Efilism. Expected release date is December 6, 2020 (Update: This Shit is taking way longer than I anticipated).</p>
 
 <p2>
 <a href="https://github.com/Asotus/asotus.github.io/blob/master/Pdf%20File/Asotus.pdf" target="_blank">Zero Sum Game Poem</a>
